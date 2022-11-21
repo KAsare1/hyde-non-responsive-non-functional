@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852770106967",
+    "project_id": "hyde-1ffc1",
+    "storage_bucket": "hyde-1ffc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852770106967:android:14b69d2711fd3f77bbfd12",
+        "android_client_info": {
+          "package_name": "com.Asare.hyde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852770106967-gsg4rmbog8gprlpmff46eu3dmlitctus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM1l4FI18fx1r6P0DHXP4z6lImILfoxNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852770106967-gsg4rmbog8gprlpmff46eu3dmlitctus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
