@@ -69,7 +69,7 @@ class _UserState extends State<User> {
                     ),
                   ),
                     Container(
-                      height: 500,
+                      height: 560,
                         child: ListView(
                           shrinkWrap: true,
                             children:[
