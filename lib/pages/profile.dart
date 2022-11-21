@@ -38,7 +38,10 @@ class _ProfileState extends State<Profile> {
           SizedBox(height: 15,),
           Center(
             child: Text('asareamankwah2@gmail.com', style: TextStyle( fontSize: 20,)),
-          )
+          ),
+          Center(
+            child: Text('+233544172851', style: TextStyle( fontSize: 20,)),
+          ),
         ],
       ),
          );
