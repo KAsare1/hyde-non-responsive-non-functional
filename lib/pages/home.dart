@@ -42,7 +42,7 @@ class _UserState extends State<User> {
                 child: Column(
                   children: [
                     Container(
-                      margin: const EdgeInsets.only(top: 16),
+                      margin: const EdgeInsets.only(top: 17),
                       height: 160,
                       alignment: Alignment.topLeft,
                       child: ListView(
